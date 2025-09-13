@@ -1,0 +1,5 @@
+name = "libretv"
+compatibility_date = "2025-09-13"
+
+[vars]
+PASSWORD = "mysecurepassword123"
