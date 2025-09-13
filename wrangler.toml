@@ -1,5 +1,7 @@
 name = "libretv"
 compatibility_date = "2025-09-13"
 
+pages_build_output_dir = "dist"
+
 [vars]
-PASSWORD = "mysecurepassword123"
+PASSWORD = "yourpassword"
